@@ -59,13 +59,3 @@ Follow the same pattern to install initial data for other applications.
 * CRUD departments, subjects, teachers, academic session, semester; import subjects from csv file
 * Teacher list view, students list view, designation CRUD
 * Create users, users list, view user groups and permissions
-
-
-<br>
-
-# Contact me:
-- [Facebook](https://www.facebook.com/tareqmonwer1/)
-- [Linkedin](linkedin.com/in/tareqmonwer)
-- [Twitter](https://twitter.com/TareqMonwerDPI)
-- [Github](https://github.com/TareqMonwer)
-- [Website](https://www.tareqmonwer.com)
